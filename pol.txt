@@ -1,1 +1,3 @@
 Archivo 1 - Pc : Pool
+Agregando informacion vacia...
+Agregando 3 lineas
